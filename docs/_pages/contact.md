@@ -7,7 +7,7 @@ featured_image: /images/demo/contact.jpg
 
 ## Основные площадки
 * [GitHub](https://github.com/Code-for-Russia)
-* Telegram [канал](https://t.me/code_for_russia) и [чат](https://t.me/joinchat/b_UceKdHd3szMDk6)
+* Telegram [канал](https://t.me/code_for_russia) и [чат](https://t.me/code_for_russia_chat)
 
 ## Социальные сети
 * [Clubhouse](https://www.joinclubhouse.com/club/code-for-russia)
