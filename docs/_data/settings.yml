@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Code for Russia
+  footer_tagline: Code for Russia - технологии для свободного демократического общества в России
 
 hero_settings:
   overlay_opacity: 0.8

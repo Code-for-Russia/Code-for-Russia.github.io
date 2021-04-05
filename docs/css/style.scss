@@ -112,6 +112,13 @@ $blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_heig
 $button-weight: {{ site.data.settings.font_settings.buttons.weight }};
 $button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
 
+.buttons {
+margin: 0 auto;
+display: inline;}
+
+	.action_btn {
+margin: 0 auto;
+display: inline;}
 
 // Logo
 $logo-width: {{ site.data.settings.header_settings.logo_width }}px;
